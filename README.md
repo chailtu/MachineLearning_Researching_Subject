@@ -12,7 +12,7 @@ U can look Data set on Folder DataSet
 U can look solution in cleansing data by data.ipynb
 
 ### First Step 
-####install libary of python
+#### install libary of python
 pip install -r requirement.txt
 
 ### Second Step
@@ -30,7 +30,7 @@ File name is Model of Machine Learning
 ### Forth Step
 See Result of Model
 
-Result of Model in Code
+Result of my Code
   
 || svm           | Logistic regression | Decision tree | knn |
 | ------------- | ------------- |:-------------------:|--------------:|----:|
