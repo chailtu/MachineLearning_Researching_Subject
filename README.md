@@ -32,8 +32,8 @@ See Result of Model
 
 Result of Model in Code
   
-|svm|Logistic regression|Decision tree|knn|
-|— |— |— |— |
+|| svm           | Logistic regression | Decision tree | knn |
+| ------------- | ------------- |:-------------------:|--------------:|----:|
 Accuracy|0.8007|0.8718|0.8115|0.8346
 Precision|0.9978|0.8842|1.0000|0.9914
 Recall|0.7621|0.8048|0.7734|0.8082
